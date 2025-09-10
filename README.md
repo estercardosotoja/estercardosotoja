@@ -11,7 +11,7 @@
 
 ## Olá!! \o/ 
 
-Meu nome é Ester e sou de Cachoeirinha/RS e sou formada em Ciência da Computação pela Ulbra. Sou uma pessoa curiosa e sempre estou buscando aprender coisas novas. Sou  no universo da programação, e adoro encontrar alguns bugs, e quanto mais eu aprendo e passo raiva e me desespero, mais eu amo tudo isso!  ❤
+Meu nome é Ester, sou de Cachoeirinha/RS e formada em Ciência da Computação pela Ulbra. Sou uma pessoa curiosa, sempre em busca de novos aprendizados. Estou mergulhada no universo da programação e adoro descobrir bugs. Quanto mais eu aprendo, mesmo entre momentos de raiva e desespero, mais percebo o quanto amo tudo isso! ❤
 
 </br>
 <img width="300px" align="right" src="avatar.png">
