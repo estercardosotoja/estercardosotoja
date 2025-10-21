@@ -1,14 +1,3 @@
-<img align="right" width="250px" style="margin-top:-20px" src="./img/octocat.png">
-
-</br>
-
-<h1 align="left">Ester Cardoso Toja</h1>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 ## Olá!! \o/ 
 
 Meu nome é Ester, sou natural de Cachoeirinha/RS e formada em Ciência da Computação pela ULBRA. Atuo há 8 anos na área de tecnologia, com experiência em engenharia de testes de software e qualidade.
